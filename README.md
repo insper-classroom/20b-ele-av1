@@ -44,7 +44,7 @@ e testadas com o script:
 | `q1.vhd`  | 8 (HW) |
 | `rtl.png` | 2 (HW) |
 
-O circuito a seguir implementa um verificador de paridade de um vetor de 3 bits, onde even = `1` quando a soma dos bits do vetor a (a2,a1,a0) forem par e `0` caso contrário.
+Implemete o circuito a seguir em vhd.
 
 a) (8 HW) Escreva em VHDL uma representação do circuito (`src/q1.vhd`).
 
