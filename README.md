@@ -56,7 +56,7 @@ b) (4 HW) Gere o RTL do circuito e salve no repositório com o nome: `rtl.png`
 
 | Arquivo      | pnts    |
 | -------      | ----    |
-| `src/q3.vhd` | 10 (HW) |
+| `src/q2.vhd` | 10 (HW) |
 
 Você deve desenvolver um circuito em VHDL que resolve o problema a seguir.
 
