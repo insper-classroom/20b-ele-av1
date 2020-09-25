@@ -1,4 +1,4 @@
-# 2020-1 AV1 Simulado
+# 2020-1 AV1
 
 **Avaliação 1 - Elementos de Sistemas - 20 pts HW**
 
